@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492890134212",
+    "project_id": "speechfight-65528",
+    "storage_bucket": "speechfight-65528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492890134212:android:996281a05590b99e8b1b91",
+        "android_client_info": {
+          "package_name": "com.blackpuppydev.speechfight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492890134212-s8qfk05agaii8ohgfom7r9d9q253h4vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS7DHwOhPbWDu_DXnrMO9VgfeD3VZkXtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492890134212-s8qfk05agaii8ohgfom7r9d9q253h4vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
